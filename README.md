@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Renata Coelho
 
-<!--
-**Rehcoelho/Rehcoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+ Foco em Banco de Dados e Análise de Dados  
 
-Here are some ideas to get you started:
+## Sobre mim
+Sou apaixonada por tecnologia e dados, com foco no desenvolvimento de soluções baseadas em análise e organização de informações. Atualmente, estou aprimorando minhas habilidades em banco de dados e ferramentas analíticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- SQL
+- MySQL
+- Modelagem de Dados
+- Excel Avançado
+- Lógica de Programação
+- Análise de Dados
+- Banco de Dados Relacional
+
+## Objetivo
+Atuar como Analista de Banco de Dados, contribuindo com insights estratégicos e otimização de processos através de dados.
+
+## Em aprendizado
+- Consultas avançadas em SQL
+- Otimização de queries
+- Power BI
+- Python para dados
+
+## Contato
+- LinkedIn: www.linkedin.com/in/renata-coelho
