@@ -7,7 +7,6 @@
 Sou apaixonada por tecnologia e dados, com foco no desenvolvimento de soluções baseadas em análise e organização de informações. Atualmente, estou aprimorando minhas habilidades em banco de dados e ferramentas analíticas.
 
 ## Habilidades
-- SQL
 - MySQL
 - Modelagem de Dados
 - Excel Avançado
