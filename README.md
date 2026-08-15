@@ -1,27 +1,69 @@
-# 👋 Olá, eu sou a Renata Coelho
+# Olá! 👋 Eu sou Renata Coelho
 
- Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
- Foco em Banco de Dados e Análise de Dados  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+💻 Aspirante a **Desenvolvedora Python**
+📊 Interesse em **Análise de Dados, Business Intelligence e Banco de Dados**
 
-## Sobre mim
-Sou apaixonada por tecnologia e dados, com foco no desenvolvimento de soluções baseadas em análise e organização de informações. Atualmente, estou aprimorando minhas habilidades em banco de dados e ferramentas analíticas.
+## 👩‍💻 Sobre mim
 
-## Habilidades
-- MySQL
-- Modelagem de Dados
-- Excel Avançado
-- Lógica de Programação
-- Análise de Dados
-- Banco de Dados Relacional
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha carreira na área de tecnologia.
 
-## Objetivo
-Atuar como Analista de Banco de Dados, contribuindo com insights estratégicos e otimização de processos através de dados.
+Minha experiência profissional com processos e análise de dados despertou meu interesse por tecnologia e me mostrou como soluções digitais podem simplificar atividades, automatizar processos e apoiar decisões.
 
-## Em aprendizado
-- Consultas avançadas em SQL
-- Otimização de queries
-- Power BI
-- Python para dados
+Atualmente, busco uma oportunidade de **estágio em tecnologia**, onde possa aplicar meus conhecimentos, desenvolver minhas habilidades técnicas e aprender através de experiências práticas.
 
-## Contato
-- LinkedIn: www.linkedin.com/in/renata-coelho
+## 🚀 Tecnologias e conhecimentos
+
+### 💻 Desenvolvimento
+
+* Python
+* JavaScript
+* Lógica de Programação
+* Git e GitHub
+
+### 🗄️ Dados
+
+* SQL
+* Modelagem de Dados
+* Banco de Dados Relacional
+* Análise de Dados
+
+### 📊 Ferramentas
+
+* Excel
+* Power BI
+* Dashboards
+* Tabelas Dinâmicas
+
+## 📚 Atualmente estudando
+
+* Python
+* SQL
+* Estruturas de Dados
+* Desenvolvimento de aplicações
+* Banco de Dados
+* Boas práticas de programação
+
+## 🎯 Objetivo
+
+Busco uma oportunidade de estágio em **Desenvolvimento, Python, Dados ou Business Intelligence**, onde possa contribuir com meus conhecimentos, aprender com a equipe e evoluir profissionalmente.
+
+Meu objetivo é desenvolver soluções utilizando **tecnologia, programação e dados para resolver problemas reais**.
+
+## 🌱 Interesses
+
+* Desenvolvimento Python
+* Análise de Dados
+* Business Intelligence
+* Banco de Dados
+* Automação de processos
+* Soluções digitais
+* Aprendizado contínuo
+
+## 🤝 Vamos nos conectar?
+
+💼 [LinkedIn](www.linkedin.com/in/renata-coelho)
+
+📧 [E-mail](cristinarenata038@gmail.com)
+
+🐙 [GitHub](https://github.com/Rehcoelho)
